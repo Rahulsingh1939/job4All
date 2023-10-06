@@ -1,0 +1,19 @@
+{
+  "name": "job4all",
+  "version": "1.0.0",
+  "description": "This is a Job Seeking platform made using MERN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahulsingh1939/job4All.git"
+  },
+  "author": "Rahul Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahulsingh1939/job4All/issues"
+  },
+  "homepage": "https://github.com/Rahulsingh1939/job4All#readme"
+}
